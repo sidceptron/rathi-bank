@@ -13,3 +13,8 @@ function formcheck() {
       alert (" Welcome to ARIT, You are registered.")
     }
  }
+
+
+
+
+ cdd
